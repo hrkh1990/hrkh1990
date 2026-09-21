@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-label="Hamidreza Khazaie, network and cloud security consultant">
+<style>
+  .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+  .sans { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
+  .n { fill: #fbfaf7; stroke: #aeaaa1; stroke-width: 1.2; }
+  .hot { fill: rgba(228,83,28,0.1); stroke: #e4531c; stroke-width: 1.8; }
+  .l { fill: none; stroke: #aeaaa1; stroke-width: 1.5; }
+  .t { fill: #5c6168; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 12px; letter-spacing: .05em; text-anchor: middle; }
+  .t.hot { fill: #b33d0e; stroke: none; }
+</style>
+<defs><pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1.2" fill="#dddad3"/></pattern></defs>
+<rect width="1200" height="380" rx="16" fill="#f4f3ef"/>
+<rect width="1200" height="380" rx="16" fill="url(#dots)"/>
+<rect x="60" y="56" width="46" height="36" rx="6" fill="none" stroke="#15171a" stroke-width="2.5"/>
+<text class="mono" x="83" y="80" text-anchor="middle" font-size="16" font-weight="600" fill="#15171a">HK</text>
+<text class="sans" x="122" y="81" font-size="22" font-weight="600" fill="#15171a">Hamidreza Khazaie</text>
+<text class="mono" x="60" y="146" font-size="17" letter-spacing="1.5" fill="#b33d0e">NETWORK &amp; CLOUD SECURITY CONSULTANT</text>
+<text class="sans" x="58" y="212" font-size="54" font-weight="700" letter-spacing="-1.5" fill="#15171a">Secure networks,</text>
+<text class="sans" x="58" y="270" font-size="54" font-weight="700" letter-spacing="-1.5" fill="#15171a">calm changes.</text>
+<text class="mono" x="60" y="330" font-size="16" fill="#5c6168"><tspan fill="#15171a">secureops.it</tspan>   ·   Rome, Italy   ·   <tspan fill="#1f8a57">●</tspan> available for projects</text>
+<g transform="translate(740 40)">
+  <rect x="0" y="0" width="420" height="300" rx="12" fill="#fbfaf7" stroke="#dddad3"/>
+  <g transform="translate(20 18)">
+  <path class="l" d="M190 36 V64 M190 100 V128 M190 164 V186 M60 186 H320 M60 186 V214 M190 186 V214 M320 186 V214"/>
+  <rect class="n" x="120" y="0" width="140" height="36" rx="5"/><text class="t" x="190.0" y="22.5">INTERNET</text>
+  <rect class="n" x="100" y="64" width="180" height="36" rx="5"/><text class="t" x="190.0" y="86.5">EDGE · ZTNA</text>
+  <rect class="hot" x="100" y="128" width="180" height="36" rx="5"/><text class="t hot" x="190.0" y="150.5">FIREWALL</text>
+  <rect class="n" x="8" y="214" width="104" height="34" rx="5"/><text class="t" x="60.0" y="235.5">DMZ</text><rect class="n" x="138" y="214" width="104" height="34" rx="5"/><text class="t" x="190.0" y="235.5">CORE</text><rect class="n" x="268" y="214" width="104" height="34" rx="5"/><text class="t" x="320.0" y="235.5">AWS</text>
+  <circle r="5" fill="#1f8a57" opacity="0"><animateMotion path="M190 36 V186 H60 V214" dur="4.5s" begin="0s" repeatCount="indefinite" keyPoints="0;1;1" keyTimes="0;0.8;1" calcMode="linear"/><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.8;0.86;1" dur="4.5s" begin="0s" repeatCount="indefinite"/></circle>
+  <circle r="5" fill="#e4531c" opacity="0"><animateMotion path="M190 36 V124" dur="4.5s" begin="1.6s" repeatCount="indefinite" keyPoints="0;1;1" keyTimes="0;0.8;1" calcMode="linear"/><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.8;0.86;1" dur="4.5s" begin="1.6s" repeatCount="indefinite"/></circle><path d="M183 107 l14 14 M197 107 l-14 14" stroke="#e4531c" stroke-width="3" stroke-linecap="round" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.79;0.8;0.97;1" dur="4.5s" begin="1.6s" repeatCount="indefinite"/></path>
+  <circle r="5" fill="#1f8a57" opacity="0"><animateMotion path="M190 36 V186 H320 V214" dur="4.5s" begin="3s" repeatCount="indefinite" keyPoints="0;1;1" keyTimes="0;0.8;1" calcMode="linear"/><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.8;0.86;1" dur="4.5s" begin="3s" repeatCount="indefinite"/></circle>
+  </g></g>
+</svg>

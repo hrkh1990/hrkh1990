@@ -29,10 +29,14 @@ Based in **Rome**, working with teams across Europe. Currently **available for n
 
 ### Open source
 
-| | |
-|---|---|
-| [**fw-rule-audit**](https://github.com/hrkh1990/fw-rule-audit) | Audit Cisco ASA rule bases for risky, shadowed and unused rules before a migration. |
-| [**network-security-playbook**](https://github.com/hrkh1990/network-security-playbook) | Hardening baselines, an AWS exposure check, Wazuh rules and a firewall cutover runbook. |
+**[fwmigrate](https://github.com/hrkh1990/fwmigrate)**: convert a Cisco ASA configuration to FortiGate, including NAT to VIPs, routing-based egress interfaces and ASA's implicit security-level permits, with a report of everything that still needs a human.
+
+```text
+$ fwmigrate convert asa-running.cfg --map interfaces.map
+✓ 12   policies         → config firewall policy
+＋ 1   implicit security-level permits made explicit
+⚠ 2    items need review (see report.md)
+```
 
 ### Platforms I work with
 

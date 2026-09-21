@@ -27,6 +27,13 @@ Based in **Rome**, working with teams across Europe. Currently **available for n
 
 > I’d rather spend an extra day planning than an extra night rolling back.
 
+### Open source
+
+| | |
+|---|---|
+| [**fw-rule-audit**](https://github.com/hrkh1990/fw-rule-audit) | Audit Cisco ASA rule bases for risky, shadowed and unused rules before a migration. |
+| [**network-security-playbook**](https://github.com/hrkh1990/network-security-playbook) | Hardening baselines, an AWS exposure check, Wazuh rules and a firewall cutover runbook. |
+
 ### Platforms I work with
 
 `Cisco Firepower / ASA` `FortiGate` `Juniper SRX` `Palo Alto` `AWS` `Cloudflare ZTNA` `Wazuh` `SD-WAN`
